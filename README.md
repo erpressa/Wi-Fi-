@@ -22,4 +22,4 @@ oppure ctrl + c per terminare
 
 sudo airodump-ng --bssid FF:FF:FF:FF:FF:FF -c 1 -w /home/kali/handshake.cap wlan0mon
 ```
-esempio sudo airodump-ng --<BSSID> -c <CANALE> -w <PERCORSO-FILE>  <INTERFACCIA>
+esempio sudo airodump-ng --<BSSID> -c <CANALE> -w <PERCORSO-FILE>  <INTERFACCIA> 
