@@ -1,6 +1,12 @@
 # Wi-Fi-
-
-
+Visualizza scheda di rete 
+```
+ifconfig
+```
+oppure
+```
+ip a
+```
 avvia scheda di rete in monitor mode
 ```
 erpressa@kali:~# sudo airmon-ng start wlan0
