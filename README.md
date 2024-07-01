@@ -1,4 +1,4 @@
-# Wi-Fi-
+# Wi-Fi
 Visualizza scheda di rete 
 ```
 ifconfig
